@@ -29,6 +29,12 @@ export const projects = [
     link: "https://webprojon.github.io/My-To-Do-App/",
   },
   {
+    name: "Weather App",
+    proImg:
+      "https://t3.ftcdn.net/jpg/04/91/54/18/360_F_491541875_c0vIhFwHnRZvmRfJELvJxtSQbRDOwbGC.jpg",
+    link: "https://webprojon.github.io/my-weather-app/",
+  },
+  {
     name: "Quiz App",
     proImg:
       "https://media.istockphoto.com/id/1268465415/photo/quiz-time-concept-speech-bubble-with-pencil-on-yellow-background.jpg?s=612x612&w=0&k=20&c=ZowfYpCJeyknpWhnfyWqV1_If6aJmFUiSqqqEUBhvAg=",
