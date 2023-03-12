@@ -1,5 +1,10 @@
 export const projects = [
   {
+    name: "Make Your Workout",
+    proImg: "../Images/mapty.png",
+    link: "https://webprojon.github.io/Make-Workout/",
+  },
+  {
     name: "My Quote App",
     proImg:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ817-Kd6nLtEmtvoLG1YC8LfSpWsbwdy2_Ee49q0NjeDlGh-Sb4UKZ5pE2K4yWdhgLKHk&usqp=CAU",
