@@ -1,7 +1,7 @@
 export const projects = [
   {
     name: "Make Your Workout",
-    proImg: "../Images/mapty.png",
+    proImg: "https://jasminewarner.com/img/blog/img.jpg",
     link: "https://webprojon.github.io/Make-Workout/",
   },
   {
