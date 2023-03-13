@@ -17,6 +17,12 @@ export const projects = [
     link: "https://itplanet.netlify.app/",
   },
   {
+    name: "Guess Number",
+    proImg:
+      "https://content.tinytap.it/Guess-My-Number_184D8385-7713-4E40-A86D-379AE6558F9C/unzipped%2Fphoto1%2Fphoto1phone.jpg",
+    link: "https://webprojon.github.io/guess-number/",
+  },
+  {
     name: "Pixel Com Temp",
     proImg:
       "https://www.pexels.com/assets/static/images/meta/pexels-stock-photos.jpg",
